@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channel>
+	<title><![CDATA[Daum Open API - book Search query : '은하']]></title>
+	<link><![CDATA[http://apis.daum.net/search/book]]></link>
+	<lastBuildDate>Tue, 04 Dec 07 13:18:20 +0900</lastBuildDate>
+	<totalCount>1098</totalCount>
+	<sort>popular</sort>
+	<result>19</result>
+	<target>meta</target>
+	<pageno>1</pageno>
+	<elapsed_time>53.637981414795</elapsed_time>
+	<q>은하</q>
+	<item>
+		<title><![CDATA[미 국방성의 우주인]]></title>
+		<link><![CDATA[http://book.daum.net/bookdetail/book.do?bookid=KOR9788995313251]]></link>
+		<cover_s_url><![CDATA[http://photo-book.hanmail.net/images/book/medium/251/m9788995313251.jpg]]></cover_s_url>
+		<cover_l_url><![CDATA[http://photo-book.hanmail.net/images/book/large/251/l9788995313251.jpg]]></cover_l_url>
+		<description><![CDATA[실제 외계인과의 만남을 담아 정리한 책. 이 책은 과거에 실제로 발생했던 미국 정부와 외계인과의 접촉에 관한 사건을 다룬다.  1957년 3월 16일, 금성에서 온 한 우주인이 UFO를 타고 미(美) 버지니아 주 알렉산드리아에 착륙했고 그 즉시 경찰차에 태워져 미 국방성으로 호송되어 갔다. 이어서 그는 우주선 사령관 신분으로 백악관에까지 가서 당시 대통령이었던 아이젠하워까지 만났다고 하는데 …  1959년 말에 있었던 자신과]]></description>
+		<author><![CDATA[프랭크 E. 스트랜지스]]></author>
+		<translator><![CDATA[박찬호]]></translator>
+		<pub_nm><![CDATA[<B>은하</B>문명]]></pub_nm>
+		<pub_date><![CDATA[Mon, 15 Oct 07 00:00:00 +0900]]></pub_date>
+		<category><![CDATA[자연과학/공학]]></category>
+		<isbn><![CDATA[8995313250]]></isbn>
+		<sale_yn><![CDATA[Y]]></sale_yn>
+		<list_price><![CDATA[13000]]></list_price>
+		<sale_price><![CDATA[11700]]></sale_price>
+		<status_des><![CDATA[정상]]></status_des>
+		<barcode><![CDATA[9788995313251]]></barcode>
+		<ebook_barcode><![CDATA[]]></ebook_barcode>
+	</item>
+	<item>
+		<title><![CDATA[천문학계가 주목하는 75<B>은하</B> 68항성(NEWTON HIGHLIGHT)]]></title>
+		<link><![CDATA[http://book.daum.net/bookdetail/book.do?bookid=KOR9788955377477]]></link>
+		<cover_s_url><![CDATA[http://photo-book.hanmail.net/images/book/medium/477/m9788955377477.jpg]]></cover_s_url>
+		<cover_l_url><![CDATA[http://photo-book.hanmail.net/images/book/large/477/l9788955377477.jpg]]></cover_l_url>
+		<description><![CDATA[GRAPHIC SCIENCE MAGAGINE『NEWTON』 HIGHLIGHT판.  천문학계가 주목하는  75<B>은하</B>  68항성 최첨단 장비로 촬영한, 초베스트 우주 영상  · 허블, 스피처, 찬드라 망원경으로 본 우주 · 남반구 우주 기행 · 적외선으로 본 우주 전천(全天)의 모습 · 근적외선으로 촬영한 천체들 · 컴퓨터 시뮬레이션으로 본 4차원 디지털 우주 · 더욱 분명히 밝혀진, 태양의 상세 구조]]></description>
+		<author><![CDATA[일본 뉴턴프레스]]></author>
+		<translator><![CDATA[]]></translator>
+		<pub_nm><![CDATA[뉴턴코리아]]></pub_nm>
+		<pub_date><![CDATA[Thu, 15 Feb 07 00:00:00 +0900]]></pub_date>
+		<category><![CDATA[자연과학/공학]]></category>
+		<isbn><![CDATA[8955377479]]></isbn>
+		<sale_yn><![CDATA[Y]]></sale_yn>
+		<list_price><![CDATA[15000]]></list_price>
+		<sale_price><![CDATA[13500]]></sale_price>
+		<status_des><![CDATA[정상]]></status_des>
+		<barcode><![CDATA[9788955377477]]></barcode>
+		<ebook_barcode><![CDATA[]]></ebook_barcode>
+	</item>
+	<item>
+		<title><![CDATA[천상의 가르침과 대예언]]></title>
+		<link><![CDATA[http://book.daum.net/bookdetail/book.do?bookid=KOR9788995313244]]></link>
+		<cover_s_url><![CDATA[http://photo-book.hanmail.net/images/book/medium/244/m9788995313244.jpg]]></cover_s_url>
+		<cover_l_url><![CDATA[http://photo-book.hanmail.net/images/book/large/244/l9788995313244.jpg]]></cover_l_url>
+		<description><![CDATA[지구와 인류의 차원변형에 대해 들려주는 메시지를 담은 책. 이 책은 지구와 인류의 차원 상승, 깨달음, 천상의 세계, 후천세계, 요한 계시록의 실체 등을 밝히고 있다. 깨달음과 상승에 대비하기 위한 우주적인 빛의 명상, 각종 수련법, 진솔한 기도법 등도 제시한다. 또한 DNA 속에 담긴 영혼의 신비, 늙음과 죽음의 비밀 등 아직 알려지지 않은 인체의 참모습을 공개한다.]]></description>
+		<author><![CDATA[버지니아 에센]]></author>
+		<translator><![CDATA[윤구용 외]]></translator>
+		<pub_nm><![CDATA[<B>은하</B>문명]]></pub_nm>
+		<pub_date><![CDATA[Tue, 20 Jun 06 00:00:00 +0900]]></pub_date>
+		<category><![CDATA[종교]]></category>
+		<isbn><![CDATA[8995313242]]></isbn>
+		<sale_yn><![CDATA[Y]]></sale_yn>
+		<list_price><![CDATA[13000]]></list_price>
+		<sale_price><![CDATA[12350]]></sale_price>
+		<status_des><![CDATA[정상]]></status_des>
+		<barcode><![CDATA[9788995313244]]></barcode>
+		<ebook_barcode><![CDATA[]]></ebook_barcode>
+	</item>
+	<item>
+		<title><![CDATA[<B>은하</B>철도 999의 기적]]></title>
+		<link><![CDATA[http://book.daum.net/bookdetail/book.do?bookid=KOR9788952749833]]></link>
+		<cover_s_url><![CDATA[http://photo-book.hanmail.net/images/book/medium/833/m9788952749833.jpg]]></cover_s_url>
+		<cover_l_url><![CDATA[http://photo-book.hanmail.net/images/book/large/833/l9788952749833.jpg]]></cover_l_url>
+		<description><![CDATA[『<B>은하</B>철도 999의 기적』는 식물인간인 아빠를 두고 있는 문석이네 가족의 이야기로, 만화영화「<B>은하</B>철도 999」와 접목시킨 동화이다. 1인칭 시점으로 전개되던 작품은 결말에 가서 3인칭 시점으로 바뀌는데, 이 부분에서 작가가 전하고 싶은 주제가 드러난다. 독특한 소재는 아이들에게 신선한 느낌을 전달한다.  문석이에게는 한때는 잘나가는 축구 선수였으나, 경기 도중 쓰러져 식물인간으로 누워 있는 아빠가 있다. 그 때부터]]></description>
+		<author><![CDATA[류호선]]></author>
+		<translator><![CDATA[]]></translator>
+		<pub_nm><![CDATA[시공주니어]]></pub_nm>
+		<pub_date><![CDATA[Wed, 05 Sep 07 00:00:00 +0900]]></pub_date>
+		<category><![CDATA[아동]]></category>
+		<isbn><![CDATA[8952749839]]></isbn>
+		<sale_yn><![CDATA[Y]]></sale_yn>
+		<list_price><![CDATA[7000]]></list_price>
+		<sale_price><![CDATA[6300]]></sale_price>
+		<status_des><![CDATA[정상]]></status_des>
+		<barcode><![CDATA[9788952749833]]></barcode>
+		<ebook_barcode><![CDATA[]]></ebook_barcode>
+	</item>
+	<item>
+		<title><![CDATA[가야금 교본(황병주)]]></title>
+		<link><![CDATA[http://book.daum.net/bookdetail/book.do?bookid=KOR9788931671438]]></link>
+		<cover_s_url><![CDATA[http://photo-book.hanmail.net/images/book/medium/438/m9788931671438.jpg]]></cover_s_url>
+		<cover_l_url><![CDATA[http://photo-book.hanmail.net/images/book/large/438/l9788931671438.jpg]]></cover_l_url>
+		<description><![CDATA[초보자를 위한 가야금 교본. 1972년에 처음 출간된 것을 새롭게 정리하고 보완한 증보판이다. 오른손의 탄현법과 왼손의 안현법 연습을 위한 연습곡 40여곡과 각도 민요 50여곡, 성금련이 작곡한 살풀이, 독주용으로 짧은 산조(8분)와 긴 산조(45분)를 엮었다.]]></description>
+		<author><![CDATA[황병주]]></author>
+		<translator><![CDATA[]]></translator>
+		<pub_nm><![CDATA[<B>은하</B>출판사]]></pub_nm>
+		<pub_date><![CDATA[Tue, 01 Aug 06 00:00:00 +0900]]></pub_date>
+		<category><![CDATA[예술/대중문화]]></category>
+		<isbn><![CDATA[8931671431]]></isbn>
+		<sale_yn><![CDATA[Y]]></sale_yn>
+		<list_price><![CDATA[16000]]></list_price>
+		<sale_price><![CDATA[16000]]></sale_price>
+		<status_des><![CDATA[정상]]></status_des>
+		<barcode><![CDATA[9788931671438]]></barcode>
+		<ebook_barcode><![CDATA[]]></ebook_barcode>
+	</item>
+	<item>
+		<title><![CDATA[기본 응급간호(양장)]]></title>
+		<link><![CDATA[http://book.daum.net/bookdetail/book.do?bookid=KOR9788931642841]]></link>
+		<cover_s_url><![CDATA[http://photo-book.hanmail.net/images/book/medium/841/m9788931642841.jpg]]></cover_s_url>
+		<cover_l_url><![CDATA[http://photo-book.hanmail.net/images/book/large/841/l9788931642841.jpg]]></cover_l_url>
+		<description><![CDATA[간호학 전문서. 이 책은 기본 간호와 응급의료 체계, 응급처치방법, 심폐소생술과 쇼크환자 관리 등의 내용을 담아 설명했다.]]></description>
+		<author><![CDATA[고일선]]></author>
+		<translator><![CDATA[]]></translator>
+		<pub_nm><![CDATA[<B>은하</B>출판사]]></pub_nm>
+		<pub_date><![CDATA[Sat, 15 Jul 06 00:00:00 +0900]]></pub_date>
+		<category><![CDATA[건강/의학]]></category>
+		<isbn><![CDATA[8931642849]]></isbn>
+		<sale_yn><![CDATA[Y]]></sale_yn>
+		<list_price><![CDATA[22000]]></list_price>
+		<sale_price><![CDATA[20900]]></sale_price>
+		<status_des><![CDATA[정상]]></status_des>
+		<barcode><![CDATA[9788931642841]]></barcode>
+		<ebook_barcode><![CDATA[]]></ebook_barcode>
+	</item>
+	<item>
+		<title><![CDATA[허셜이 들려주는 <B>은하</B> 이야기(노트포함)]]></title>
+		<link><![CDATA[http://book.daum.net/bookdetail/book.do?bookid=KOR9788954409094]]></link>
+		<cover_s_url><![CDATA[http://photo-book.hanmail.net/images/book/medium/094/m9788954409094.jpg]]></cover_s_url>
+		<cover_l_url><![CDATA[http://photo-book.hanmail.net/images/book/large/094/l9788954409094.jpg]]></cover_l_url>
+		<description><![CDATA[『과학자들이 들려주는 과학이야기』58번째 이야기《허셜이 들려주는 <B>은하</B> 이야기》. 반사망원경을 만든 항성천문학의 아버지 허셜과 함께 하는 살아 움직이는 우주 공간 관찰 수업!우주에 떠 있는 수많은 별들과 <B>은하</B>를 배운다. 우주를 구성하는 요소로는 어떤 것들이 있을까? <B>은하</B>들은 우주에 어떻게 분포되어 있을까? 지구와 태양계, 그리고 <B>은하</B>와 우주에서 일어나는 모든 현상을 9일만에 알아볼 수 있다.책을 읽고 나서 본문]]></description>
+		<author><![CDATA[정완상]]></author>
+		<translator><![CDATA[]]></translator>
+		<pub_nm><![CDATA[자음과모음]]></pub_nm>
+		<pub_date><![CDATA[Thu, 20 Oct 05 00:00:00 +0900]]></pub_date>
+		<category><![CDATA[청소년]]></category>
+		<isbn><![CDATA[8954409091]]></isbn>
+		<sale_yn><![CDATA[Y]]></sale_yn>
+		<list_price><![CDATA[10500]]></list_price>
+		<sale_price><![CDATA[9450]]></sale_price>
+		<status_des><![CDATA[정상]]></status_des>
+		<barcode><![CDATA[9788954409094]]></barcode>
+		<ebook_barcode><![CDATA[]]></ebook_barcode>
+	</item>
+	<item>
+		<title><![CDATA[예수 그리스도의 충격 메시지(개정판)]]></title>
+		<link><![CDATA[http://book.daum.net/bookdetail/book.do?bookid=KOR9788995313237]]></link>
+		<cover_s_url><![CDATA[http://photo-book.hanmail.net/images/book/medium/237/m9788995313237.jpg]]></cover_s_url>
+		<cover_l_url><![CDATA[http://photo-book.hanmail.net/images/book/large/237/l9788995313237.jpg]]></cover_l_url>
+		<description><![CDATA[예수 그리스도의 계시와 미래 예언을 담은 &lt;예수 그리스도의 충격 메시지&gt; 개정판. 지구와 인류의 긴급한 위기에 대한 그리스도의 강력한 경고와 전 인류에 대한 간절한 요청, 그리고 깨어나고 있는 새로운 인류를 위한 놀라운 가르침들을 담고 있다. 지구대변동, UFO의 실체, 우주라는 신비한 세계에 대한 이야기를 충격적인 메시지와 함께 전해준다.]]></description>
+		<author><![CDATA[버지니아 에센]]></author>
+		<translator><![CDATA[]]></translator>
+		<pub_nm><![CDATA[<B>은하</B>문명]]></pub_nm>
+		<pub_date><![CDATA[Sat, 27 Aug 05 00:00:00 +0900]]></pub_date>
+		<category><![CDATA[종교]]></category>
+		<isbn><![CDATA[8995313234]]></isbn>
+		<sale_yn><![CDATA[Y]]></sale_yn>
+		<list_price><![CDATA[13000]]></list_price>
+		<sale_price><![CDATA[12350]]></sale_price>
+		<status_des><![CDATA[정상]]></status_des>
+		<barcode><![CDATA[9788995313237]]></barcode>
+		<ebook_barcode><![CDATA[]]></ebook_barcode>
+	</item>
+	<item>
+		<title><![CDATA[<B>은하</B>철도의 밤]]></title>
+		<link><![CDATA[http://book.daum.net/bookdetail/book.do?bookid=KOR9788995420416]]></link>
+		<cover_s_url><![CDATA[http://photo-book.hanmail.net/images/book/medium/416/m9788995420416.jpg]]></cover_s_url>
+		<cover_l_url><![CDATA[http://photo-book.hanmail.net/images/book/large/416/l9788995420416.jpg]]></cover_l_url>
+		<description><![CDATA[죠반니라는 소년이 가진 소외와 고독을 통해 존재의 물화로 인해 스스로를, 서로를 소외시키는 현대를 살아가는 사람들의 근원적인 고독과 소외의 문제를 다룬 동화. 본문의 삽화를 담은 엽서 세트가 수록되어 있다.]]></description>
+		<author><![CDATA[미야자와 겐지]]></author>
+		<translator><![CDATA[심종숙]]></translator>
+		<pub_nm><![CDATA[북치는마을]]></pub_nm>
+		<pub_date><![CDATA[Thu, 15 Jan 04 00:00:00 +0900]]></pub_date>
+		<category><![CDATA[소설]]></category>
+		<isbn><![CDATA[8995420413]]></isbn>
+		<sale_yn><![CDATA[Y]]></sale_yn>
+		<list_price><![CDATA[7500]]></list_price>
+		<sale_price><![CDATA[6750]]></sale_price>
+		<status_des><![CDATA[정상]]></status_des>
+		<barcode><![CDATA[9788995420416]]></barcode>
+		<ebook_barcode><![CDATA[]]></ebook_barcode>
+	</item>
+	<item>
+		<title><![CDATA[나의 과학 우주 (달에서 <B>은하</B>까지)]]></title>
+		<link><![CDATA[http://book.daum.net/bookdetail/book.do?bookid=KOR9788901042244]]></link>
+		<cover_s_url><![CDATA[http://photo-book.hanmail.net/images/book/medium/244/m9788901042244.jpg]]></cover_s_url>
+		<cover_l_url><![CDATA[http://photo-book.hanmail.net/images/book/large/244/l9788901042244.jpg]]></cover_l_url>
+		<description><![CDATA[우리는 우주 속, 지구라는 행성에서 살고 있어요. 지구 밖에는 무엇이 있을까요? 달과 태양이 있고, 지구처럼 태양 둘레를 도는 아홉 개의 행성이 있지요. 이밖에도 우주에는 셀 수 없이 많은 별들과 행성이 있어요. 그곳 어딘가에 혹시 나와 비슷한 우주인이 살고 있는 건 아닐까요?]]></description>
+		<author><![CDATA[조앤 스위니]]></author>
+		<translator><![CDATA[윤소영]]></translator>
+		<pub_nm><![CDATA[웅진닷컴]]></pub_nm>
+		<pub_date><![CDATA[Tue, 15 Jul 03 00:00:00 +0900]]></pub_date>
+		<category><![CDATA[유아]]></category>
+		<isbn><![CDATA[890104224X]]></isbn>
+		<sale_yn><![CDATA[Y]]></sale_yn>
+		<list_price><![CDATA[7500]]></list_price>
+		<sale_price><![CDATA[6000]]></sale_price>
+		<status_des><![CDATA[정상]]></status_des>
+		<barcode><![CDATA[9788901042244]]></barcode>
+		<ebook_barcode><![CDATA[]]></ebook_barcode>
+	</item>
+	<item>
+		<title><![CDATA[파운데이션 4(<B>은하</B>제국의 흥망 1)]]></title>
+		<link><![CDATA[http://book.daum.net/bookdetail/book.do?bookid=KOR9788974580889]]></link>
+		<cover_s_url><![CDATA[http://photo-book.hanmail.net/images/book/medium/889/m9788974580889.jpg]]></cover_s_url>
+		<cover_l_url><![CDATA[http://photo-book.hanmail.net/images/book/large/889/l9788974580889.jpg]]></cover_l_url>
+		<description><![CDATA[SF계의 거장 아시모프가 기번의 "로마제국 흥망사"에 영향을 받아 쓴 장편 SF소설. 프랭크 허버트의 "듄"과 함께 SF 2대 대하소설로 꼽히는 이 작품은 장대한 시간적 공간 배경 속에 <B>은하</B>제국의 흥망과 인류의 궁극적 미래를 그리고 있다. <B>은하</B>제국 기원 120세기, 2천5백만의 <B>은하</B>계 행성들에 사는 10경에 달하는 인구로 이루어진 <B>은하</B>제국은 서서히 쇠락의 기미를 드러내고, 수학자 해리 셀던은 집단심리학에 수학적 확률론을 결]]></description>
+		<author><![CDATA[아시삭 아시모프]]></author>
+		<translator><![CDATA[최서래 외]]></translator>
+		<pub_nm><![CDATA[현대정보문화사]]></pub_nm>
+		<pub_date><![CDATA[Tue, 25 Feb 03 00:00:00 +0900]]></pub_date>
+		<category><![CDATA[소설]]></category>
+		<isbn><![CDATA[8974580888]]></isbn>
+		<sale_yn><![CDATA[Y]]></sale_yn>
+		<list_price><![CDATA[9000]]></list_price>
+		<sale_price><![CDATA[7650]]></sale_price>
+		<status_des><![CDATA[정상]]></status_des>
+		<barcode><![CDATA[9788974580889]]></barcode>
+		<ebook_barcode><![CDATA[]]></ebook_barcode>
+	</item>
+	<item>
+		<title><![CDATA[파운데이션 5(<B>은하</B>제국의 흥망 2)]]></title>
+		<link><![CDATA[http://book.daum.net/bookdetail/book.do?bookid=KOR9788974580896]]></link>
+		<cover_s_url><![CDATA[http://photo-book.hanmail.net/images/book/medium/896/m9788974580896.jpg]]></cover_s_url>
+		<cover_l_url><![CDATA[http://photo-book.hanmail.net/images/book/large/896/l9788974580896.jpg]]></cover_l_url>
+		<description><![CDATA[SF계의 거장 아시모프가 기번의 "로마제국 흥망사"에 영향을 받아 쓴 장편 SF소설. 프랭크 허버트의 "듄"과 함께 SF 2대 대하소설로 꼽히는 이 작품은 장대한 시간적 공간 배경 속에 <B>은하</B>제국의 흥망과 인류의 궁극적 미래를 그리고 있다. <B>은하</B>제국 기원 120세기, 2천5백만의 <B>은하</B>계 행성들에 사는 10경에 달하는 인구로 이루어진 <B>은하</B>제국은 서서히 쇠락의 기미를 드러내고, 수학자 해리 셀던은 집단심리학에 수학적 확률론을 결]]></description>
+		<author><![CDATA[아이작 아시모프]]></author>
+		<translator><![CDATA[최서래 외]]></translator>
+		<pub_nm><![CDATA[현대정보문화사]]></pub_nm>
+		<pub_date><![CDATA[Tue, 25 Feb 03 00:00:00 +0900]]></pub_date>
+		<category><![CDATA[소설]]></category>
+		<isbn><![CDATA[8974580896]]></isbn>
+		<sale_yn><![CDATA[Y]]></sale_yn>
+		<list_price><![CDATA[9000]]></list_price>
+		<sale_price><![CDATA[7650]]></sale_price>
+		<status_des><![CDATA[정상]]></status_des>
+		<barcode><![CDATA[9788974580896]]></barcode>
+		<ebook_barcode><![CDATA[]]></ebook_barcode>
+	</item>
+	<item>
+		<title><![CDATA[<B>은하</B>연합 우주함대로 부터 온 메시지들]]></title>
+		<link><![CDATA[http://book.daum.net/bookdetail/book.do?bookid=KOR9788995313220]]></link>
+		<cover_s_url><![CDATA[http://photo-book.hanmail.net/images/book/medium/220/m9788995313220.jpg]]></cover_s_url>
+		<cover_l_url><![CDATA[http://photo-book.hanmail.net/images/book/large/220/l9788995313220.jpg]]></cover_l_url>
+		<description><![CDATA[미국의 쉘든 나이들(Sheldon Nidle)이라는 UFO 접촉자이자 채널링 수신자가 기록한 내용들의 주요 부분만 발췌 번역한 책]]></description>
+		<author><![CDATA[박찬호]]></author>
+		<translator><![CDATA[]]></translator>
+		<pub_nm><![CDATA[<B>은하</B>문명]]></pub_nm>
+		<pub_date><![CDATA[Wed, 25 Dec 02 00:00:00 +0900]]></pub_date>
+		<category><![CDATA[자연과학/공학]]></category>
+		<isbn><![CDATA[8995313226]]></isbn>
+		<sale_yn><![CDATA[Y]]></sale_yn>
+		<list_price><![CDATA[10000]]></list_price>
+		<sale_price><![CDATA[9000]]></sale_price>
+		<status_des><![CDATA[정상]]></status_des>
+		<barcode><![CDATA[9788995313220]]></barcode>
+		<ebook_barcode><![CDATA[]]></ebook_barcode>
+	</item>
+	<item>
+		<title><![CDATA[UFO 외계 문명의 메시지들]]></title>
+		<link><![CDATA[http://book.daum.net/bookdetail/book.do?bookid=KOR9788995313213]]></link>
+		<cover_s_url><![CDATA[http://photo-book.hanmail.net/images/book/medium/213/m9788995313213.jpg]]></cover_s_url>
+		<cover_l_url><![CDATA[http://photo-book.hanmail.net/images/book/large/213/l9788995313213.jpg]]></cover_l_url>
+		<description><![CDATA[새 천년기에 펼쳐질 인류의 미래를 종합적으로 전망해 보면서 관련 예언들과 정보를 엮었다.]]></description>
+		<author><![CDATA[박찬호]]></author>
+		<translator><![CDATA[]]></translator>
+		<pub_nm><![CDATA[<B>은하</B>문명]]></pub_nm>
+		<pub_date><![CDATA[Wed, 25 Dec 02 00:00:00 +0900]]></pub_date>
+		<category><![CDATA[자연과학/공학]]></category>
+		<isbn><![CDATA[8995313218]]></isbn>
+		<sale_yn><![CDATA[Y]]></sale_yn>
+		<list_price><![CDATA[9500]]></list_price>
+		<sale_price><![CDATA[8550]]></sale_price>
+		<status_des><![CDATA[정상]]></status_des>
+		<barcode><![CDATA[9788995313213]]></barcode>
+		<ebook_barcode><![CDATA[]]></ebook_barcode>
+	</item>
+	<item>
+		<title><![CDATA[가야금정악보]]></title>
+		<link><![CDATA[http://book.daum.net/bookdetail/book.do?bookid=KOR9788931671094]]></link>
+		<cover_s_url><![CDATA[http://photo-book.hanmail.net/images/book/medium/094/m9788931671094.jpg]]></cover_s_url>
+		<cover_l_url><![CDATA[http://photo-book.hanmail.net/images/book/large/094/l9788931671094.jpg]]></cover_l_url>
+		<description><![CDATA[]]></description>
+		<author><![CDATA[최충웅 편저]]></author>
+		<translator><![CDATA[]]></translator>
+		<pub_nm><![CDATA[<B>은하</B>출판사]]></pub_nm>
+		<pub_date><![CDATA[Thu, 31 May 01 00:00:00 +0900]]></pub_date>
+		<category><![CDATA[예술/대중문화]]></category>
+		<isbn><![CDATA[8931671091]]></isbn>
+		<sale_yn><![CDATA[N]]></sale_yn>
+		<list_price><![CDATA[20000]]></list_price>
+		<sale_price><![CDATA[20000]]></sale_price>
+		<status_des><![CDATA[절판]]></status_des>
+		<barcode><![CDATA[9788931671094]]></barcode>
+		<ebook_barcode><![CDATA[]]></ebook_barcode>
+	</item>
+	<item>
+		<title><![CDATA[대금정악]]></title>
+		<link><![CDATA[http://book.daum.net/bookdetail/book.do?bookid=KOR9788931670035]]></link>
+		<cover_s_url><![CDATA[http://photo-book.hanmail.net/images/book/medium/035/m9788931670035.jpg]]></cover_s_url>
+		<cover_l_url><![CDATA[http://photo-book.hanmail.net/images/book/large/035/l9788931670035.jpg]]></cover_l_url>
+		<description><![CDATA[대금의 유래와 연주법, 연습곡 등을 정리한 책.]]></description>
+		<author><![CDATA[김기수 외편]]></author>
+		<translator><![CDATA[]]></translator>
+		<pub_nm><![CDATA[<B>은하</B>출판사]]></pub_nm>
+		<pub_date><![CDATA[Sun, 01 Apr 90 00:00:00 +0900]]></pub_date>
+		<category><![CDATA[예술/대중문화]]></category>
+		<isbn><![CDATA[8931670036]]></isbn>
+		<sale_yn><![CDATA[Y]]></sale_yn>
+		<list_price><![CDATA[25000]]></list_price>
+		<sale_price><![CDATA[25000]]></sale_price>
+		<status_des><![CDATA[정상]]></status_des>
+		<barcode><![CDATA[9788931670035]]></barcode>
+		<ebook_barcode><![CDATA[]]></ebook_barcode>
+	</item>
+	<item>
+		<title><![CDATA[정악해금보]]></title>
+		<link><![CDATA[http://book.daum.net/bookdetail/book.do?bookid=KOR9788931670097]]></link>
+		<cover_s_url><![CDATA[]]></cover_s_url>
+		<cover_l_url><![CDATA[]]></cover_l_url>
+		<description><![CDATA[]]></description>
+		<author><![CDATA[김천웅외]]></author>
+		<translator><![CDATA[]]></translator>
+		<pub_nm><![CDATA[<B>은하</B>출판사]]></pub_nm>
+		<pub_date><![CDATA[Mon, 01 Aug 88 00:00:00 +1000]]></pub_date>
+		<category><![CDATA[예술/대중문화]]></category>
+		<isbn><![CDATA[8931670095]]></isbn>
+		<sale_yn><![CDATA[Y]]></sale_yn>
+		<list_price><![CDATA[25000]]></list_price>
+		<sale_price><![CDATA[25000]]></sale_price>
+		<status_des><![CDATA[정상]]></status_des>
+		<barcode><![CDATA[9788931670097]]></barcode>
+		<ebook_barcode><![CDATA[]]></ebook_barcode>
+	</item>
+	<item>
+		<title><![CDATA[가야금정악보]]></title>
+		<link><![CDATA[http://book.daum.net/bookdetail/book.do?bookid=KOR9788931671483]]></link>
+		<cover_s_url><![CDATA[]]></cover_s_url>
+		<cover_l_url><![CDATA[]]></cover_l_url>
+		<description><![CDATA[]]></description>
+		<author><![CDATA[최충웅]]></author>
+		<translator><![CDATA[]]></translator>
+		<pub_nm><![CDATA[<B>은하</B>출판사]]></pub_nm>
+		<pub_date><![CDATA[Thu, 01 Nov 07 00:00:00 +0900]]></pub_date>
+		<category><![CDATA[기타]]></category>
+		<isbn><![CDATA[8931671482]]></isbn>
+		<sale_yn><![CDATA[Y]]></sale_yn>
+		<list_price><![CDATA[25000]]></list_price>
+		<sale_price><![CDATA[25000]]></sale_price>
+		<status_des><![CDATA[정상]]></status_des>
+		<barcode><![CDATA[9788931671483]]></barcode>
+		<ebook_barcode><![CDATA[]]></ebook_barcode>
+	</item>
+	<item>
+		<title><![CDATA[<B>은하</B>철도의 밤(미야자와 겐지 동화집 6)]]></title>
+		<link><![CDATA[http://book.daum.net/bookdetail/book.do?bookid=KOR9788959790081]]></link>
+		<cover_s_url><![CDATA[http://photo-book.hanmail.net/images/book/medium/081/m9788959790081.jpg]]></cover_s_url>
+		<cover_l_url><![CDATA[http://photo-book.hanmail.net/images/book/large/081/l9788959790081.jpg]]></cover_l_url>
+		<description><![CDATA[일본 아동문학의 거장 '미야자와 겐지'의 동화집 제6권『<B>은하</B> 철도의 밤』. 본 시리즈는 100여 편에 달하는 작품을 발표한 미야자와 겐지의 동화 중에서 가장 수준 높은 작품만을 선별하여 담았습니다.]]></description>
+		<author><![CDATA[미야자와 겐지]]></author>
+		<translator><![CDATA[박경희]]></translator>
+		<pub_nm><![CDATA[작은책방]]></pub_nm>
+		<pub_date><![CDATA[Fri, 27 Apr 07 00:00:00 +0900]]></pub_date>
+		<category><![CDATA[아동]]></category>
+		<isbn><![CDATA[8959790087]]></isbn>
+		<sale_yn><![CDATA[Y]]></sale_yn>
+		<list_price><![CDATA[9800]]></list_price>
+		<sale_price><![CDATA[8820]]></sale_price>
+		<status_des><![CDATA[정상]]></status_des>
+		<barcode><![CDATA[9788959790081]]></barcode>
+		<ebook_barcode><![CDATA[]]></ebook_barcode>
+	</item>
+</channel>

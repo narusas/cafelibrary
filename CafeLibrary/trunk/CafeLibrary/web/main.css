@@ -1,0 +1,143 @@
+/* CSS Document */
+html {
+	height: 100%;
+}
+body {
+	margin:0;
+	padding:0;
+	height:100%; 
+	width: 100%;
+	background-color:#CCCCCC;
+	font-size: 11px;
+}
+
+.BookListSection {
+	float: left;
+	width: 15%;
+	height: 99%;
+	border: thin solid;
+	background-color:#FFFFFF;
+	padding: 5px;
+}
+
+.BookTableSection {
+	float:left;
+	border: thin solid;
+	height: 99%;
+	width: 50%;
+	overflow-y: scroll;
+	background-color:#FFFFFF;
+	padding: 5px;
+}
+
+.BookDetailSection{
+	float:left;
+	border: thin solid;
+	width: 20%;
+	height: 99%;
+	background-color:#FFFFFF;
+	padding: 5px;
+}
+
+
+
+.BookListsSection {
+	border: thin solid;
+	height: 49%;
+	padding-bottom: 5px;
+}
+
+.BorrowersSection{
+	clear:both;
+	border: thin solid;
+	height: 49%;
+}
+
+
+.BookDetailHead{
+	border: thin solid;
+}
+
+.BookDetailValues{
+	border: thin solid;
+}
+
+.TableTitle{
+	clear:both;
+}
+
+.ListTitle{
+	border: thin solid;
+	background-position: center;
+	text-align: center;
+	background-color: #CCCCCC;
+}
+
+.ListItem{
+	border: thin solid;
+	padding-left: 5px;
+}
+
+.BookTable{
+	border:1px;
+}
+
+.TableHeader {
+	padding-left: 5px;
+}
+
+.TableHeaderTitle{
+	padding-left: 5px;
+	font-weight: bold;
+}
+
+.BookTitleInTable{
+	padding-left: 5px;
+}
+
+.BookAuthorInTable{
+	padding-left: 5px;
+}
+
+.BookFavoriteInTable{
+	padding-left: 5px;
+}
+
+.CoverImg {
+	float:left;
+}
+
+.BookDetailHeadInfos{
+	height: 100px;
+
+}
+
+.BookDetailKeyValue{
+	clear:both;
+}
+
+.BookDetailKey{
+	float: left;
+	width: 30%;
+	text-align: right;
+	padding-right: 5px;
+	color: #999999;
+}
+
+.BookDetailKeyValue{
+	clear:both;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+.BookDetailKeyLongData{
+	clear:both;
+	width: 30%;
+	text-align: right;
+	padding-right: 5px;
+	color: #999999;
+}
+
+.BookDetailValue {
+	
+}

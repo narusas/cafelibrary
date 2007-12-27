@@ -1,0 +1,86 @@
+<project name="CafeLibrary" default="dist" basedir=".">
+	<description>
+        simple example build file
+    </description>
+	<!-- set global properties for this build -->
+	<property name="src" location="src" />
+	<property name="build" location="build" />
+	<property name="dist" location="dist" />
+
+	<path id="base.path">
+		<pathelement path="${classpath}" />
+		<fileset dir="lib">
+			<include name="**/*.jar" />
+		</fileset>
+		<pathelement location="classes" />
+	</path>
+
+	<taskdef name="jsmoothgen" classname="net.charabia.jsmoothgen.ant.JSmoothGen" classpath="c:/Java/util/JSmooth 0.9.9-7/lib/jsmoothgen-ant.jar" />
+
+	<target name="init" depends="clean">
+		<!-- Create the time stamp -->
+		<tstamp />
+		<!-- Create the build directory structure used by compile -->
+		<mkdir dir="${build}" />
+
+	</target>
+
+	<target name="compile" depends="init" description="compile the source ">
+		<!-- Compile the java code from ${src} into ${build} -->
+		<javac srcdir="${src}" destdir="${build}" target="1.6" classpathref="base.path" debug="true" />
+	</target>
+
+	<target name="pack" depends="compile" description="generate the distribution">
+		<mkdir dir="${dist}/" />
+		<!-- Put everything in ${build} into the MyProject-${DSTAMP}.jar file -->
+		<jar jarfile="${dist}/cafelibrary.jar" basedir="${build}">
+			<manifest>
+				<attribute name="Main-Class" value="net.narusas.cafelibrary.ui.Main" />
+			</manifest>
+		</jar>
+	</target>
+
+
+	<target name="dist" depends="pack" description="generate the distribution">
+		<!-- Create the distribution directory -->
+
+		<mkdir dir="${dist}/lib" />
+		<copy todir="${dist}/lib" file="lib/commons-codec-1.3.jar" />
+		<copy todir="${dist}/lib" file="lib/commons-codec-1.3.jar" />
+		<copy todir="${dist}/lib" file="lib/commons-httpclient-3.1-rc1.jar" />
+		<copy todir="${dist}/lib" file="lib/commons-logging-1.1.jar" />
+		<copy todir="${dist}/lib" file="lib/kxml2-2.3.0.jar" />
+		<copy todir="${dist}/lib" file="lib/log4j-1.2.14.jar" />
+		<copy todir="${dist}/lib" file="lib/looks-2.1.4.jar" />
+		<copy todir="${dist}/lib" file="lib/narusas_util.jar" />
+		<copy todir="${dist}/lib" file="lib/commons-net-1.4.1.jar" />
+		<copy todir="${dist}/lib" file="lib/liquidlnf.jar" />
+		
+		<mkdir dir="${dist}/images" />
+		<copy todir="${dist}/images">
+			<fileset dir="images">
+				<include name="**/*.png" />
+				<include name="**/*.jpg" />
+			</fileset>
+		</copy>
+		
+		<mkdir dir="${dist}/web" />
+				<copy todir="${dist}/web">
+					<fileset dir="web">
+						<include name="**/*.png" />
+						<include name="**/*.js" />
+						<include name="**/*.css" />
+						<include name="**/*.tmpl" />
+					</fileset>
+				</copy>
+
+		<jsmoothgen project="jsmooth.jsmooth" skeletonroot="c:/Java/util/JSmooth 0.9.9-7/skeletons" />
+		<move todir="${dist}/" file="cafelibrary.exe" />
+	</target>
+
+	<target name="clean" description="clean up">
+		<!-- Delete the ${build} and ${dist} directory trees -->
+		<delete dir="${build}" />
+		<delete dir="${dist}" />
+	</target>
+</project>

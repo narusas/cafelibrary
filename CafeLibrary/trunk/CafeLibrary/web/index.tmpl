@@ -1,0 +1,161 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="main.css" type="text/css" />
+<title>내 라이브러리</title>
+<script src="cafelibrary.js"  type="text/javascript"></script>
+</head>
+<body>
+<div>
+	<div class="BookListSection">
+		<div class="BookListsSection">
+			<div class="ListTitle">북 리스트</div>
+			<div class="ListItem" id="bookLists">
+				<li>abc</li>
+				<li>def</li>
+			</div>
+		</div>
+		<div class="BorrowersSection">
+			<div class="ListTitle">대여자</div>
+			<div class="ListItem" id="borrowers">
+				<li>abc</li>
+				<li>def</li>
+			</div>
+		</div>
+	</div>
+	<div class="BookTableSection">
+		<div class="ListTitle" id="TableTitle">Library</div>
+		<div class="BookTable" id="BookTable">
+			<table border="1" cellpadding="0" cellspacing="0" width="99%" class="BookTableTable">
+				<tr class="TableHeader">
+					<td class="TableHeaderTitle">제목</td><td class="TableHeaderTitle">저자</td><td class="TableHeaderTitle">선호도</td>
+				</tr>
+				<tr class="TableValue">
+					<td class="BookTitleInTable">Rapid Development</td>
+					<td class="BookAuthorInTable">Steve McConnel</td>
+					<td class="BookFavoriteInTable"><img src="img/favorite_star_5.png"></td>
+				</tr>				
+		  </table>
+		</div>
+	</div>
+	
+	<div class="BookDetailSection">
+		<div class="BookDetailHead">
+			<div class="CoverImg"><img src="img/favorite_star_5.png" width="70px" height="100" id="coverImg"></div>
+			<div class="BookDetailHeadInfos">
+				<div class="BookDetailTitle" id="bookTitle">Rapid Development</div>
+				<div class="BookDetailAuthor" id="bookAuthor">Steve McConnel</div>
+			</div>
+		</div>
+		<div class="BookDetailValues">
+			<div class="BookDetailKeyValue">
+				<div class="BookDetailKey">출판사</div>
+				<div class="BookDetailValue" id="publisher">2007.11.11</div>
+			</div>
+			<div class="BookDetailKeyValue">
+				<div class="BookDetailKey">출판일</div>
+				<div class="BookDetailValue" id="publisherDate">2007.11.11</div>
+			</div>
+			<div class="BookDetailKeyValue">
+				<div class="BookDetailKey">장르</div>
+				<div class="BookDetailValue" id="category">2007.11.11</div>
+			</div>
+			<div class="BookDetailKeyValue">
+				<div class="BookDetailKey">ISBN</div>
+				<div class="BookDetailValue" id="isbn">894436208</div>
+			</div>
+			<div class="BookDetailKeyValue">
+				<div class="BookDetailKey">번역자</div>
+				<div class="BookDetailValue" id="translator">서승아</div>
+			</div>
+			<div class="BookDetailKeyValue">
+				<div class="BookDetailKey">구매일</div>
+				<div class="BookDetailValue" id="purchaseDate">2007.11.11</div>
+			</div>
+			<div class="BookDetailKeyValue">
+				<div class="BookDetailKey">선호도</div>
+				<div class="BookDetailValue"><img src="img/favorite_star_3.png" id="favorite"></div>
+			</div>
+			<div class="BookDetailKeyValue">
+				<div class="BookDetailKey">대여자</div>
+				<div class="BookDetailValue" id="borrower">아무도아니다</div>
+			</div>
+			<div class="BookDetailKeyValue">
+				<div class="BookDetailKeyLongData">설명</div>
+				<div class="BookDetailValue" id="description">이것저것</div>
+			</div>
+			<div class="BookDetailKeyValue">
+				<div class="BookDetailKeyLongData">노트</div>
+				<div class="BookDetailValue" id="note">이것저것2</div>
+			</div>
+
+		</div>
+	</div>
+</div>
+</body>
+<script language="javascript">
+titleHeader = "제목";
+authorHeader = "저자";
+favoriteHeader = "선호도";
+
+cleanUp();
+
+var bookDatas = new Array();
+var bookListData = new Array();
+var borrowersData = new Array();
+
+
+// Hande Books
+<tmpl_loop books>
+book = new Object();
+book.id = <tmpl_var id>;
+book.title = "<tmpl_var title>";
+book.author = "<tmpl_var author>";
+book.favorite = <tmpl_var favorite>;
+book.cover = "<tmpl_var cover>";
+book.publisher = "<tmpl_var publisher>";
+book.publishDate = "<tmpl_var publishDate>";
+book.category = "<tmpl_var category>";
+book.translator = "<tmpl_var translator>";
+book.purchaseDate = "<tmpl_var purchaseDate>";
+book.borrower = "<tmpl_var borrower>";
+book.description = "<tmpl_var description>";
+book.notes = "<tmpl_var notes>";
+book.isbn = "<tmpl_var isbn>";
+
+bookDatas.push(book);
+</tmpl_loop>
+
+// Handle Book Lists
+<tmpl_loop booklists>
+bookList = new Object();
+bookList.id = <tmpl_var id>;
+bookList.name = "<tmpl_var name>";
+bookList.books = new Array();
+	<tmpl_loop ownbooks>
+bookList.books.push(findBook(bookDatas, <tmpl_var bookid>));
+	</tmpl_loop>
+
+bookListData.push(bookList);
+</tmpl_loop>
+
+// Handle Borrowers
+<tmpl_loop borrowers>
+bwer = new Object();
+bwer.id = <tmpl_var id>;
+bwer.name = "<tmpl_var name>";
+bwer.books = new Array();
+	<tmpl_loop ownbooks>
+bwer.books.push(findBook(bookDatas, <tmpl_var bookid>));
+	</tmpl_loop>
+borrowersData.push(bwer);
+</tmpl_loop>
+
+updateBookList(bookListData);
+updateBorrowerList(borrowersData);
+selectBookList(bookListData[0]);
+
+</script>
+
+</html>
